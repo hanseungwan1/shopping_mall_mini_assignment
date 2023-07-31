@@ -9,4 +9,4 @@ https://hanseungwan1.github.io/shopping_mall_mini_assignment/
 
 # 실행방법
 1. /data/data.json 파일을 json server를 실행한다.
-2. 배포 링크 접속 (https://hanseungwan1.github.io/shopping_mall_mini_assignment/)
+2. 배포 링크 접속
