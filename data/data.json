@@ -1,0 +1,13 @@
+{
+  "data": [
+    ["blue_p", "man", "small size", "blue", "pants"],
+    ["blue_s", "female", "large size", "blue", "skirt"],
+    ["blue_t", "man", "small size", "blue", "tshirt"],
+    ["pink_p", "female", "large size", "pink", "pants"],
+    ["pink_s", "man", "large size", "pink", "skirt"],
+    ["pink_t", "female", "small size", "pink", "tshirt"],
+    ["yellow_p", "female", "large size", "yellow", "pants"],
+    ["yellow_s", "man", "small size", "yellow", "skirt"],
+    ["yellow_t", "female", "large size", "yellow", "tshirt"]
+  ]
+}
