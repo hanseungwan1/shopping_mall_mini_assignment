@@ -4,6 +4,9 @@
 바닐라 자바스크립트 코딩 연습과 감(?)을 잃지않기위해 과제를 해보고 더 나은 방법이 있는지
 강의를 보면서 복습을 하였습니다.
 
+# 배포링크
+https://hanseungwan1.github.io/shopping_mall_mini_assignment/
+
 # 실행방법
 1. /data/data.json 파일을 json server를 실행한다.
-2. 배포 링크 접속
+2. 배포 링크 접속 (https://hanseungwan1.github.io/shopping_mall_mini_assignment/)
